@@ -1,0 +1,23 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "lodash assignment",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Baker",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbaker1/lodash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbaker1/lodash/issues"
+  },
+  "homepage": "https://github.com/mdbaker1/lodash#readme"
+}
